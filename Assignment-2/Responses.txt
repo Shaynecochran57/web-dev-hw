@@ -1,0 +1,9 @@
+Assignment 2 Responses
+
+1. One way data travels on the internet is through a series of packets that can often be split up depending the size of the data and how much traffic and congestion in that area that the data is traveling through.
+
+2. DSN associates names with a corresponding IP address.
+
+3. Cookies are pieces of date that are sent from a website to your computer to allow that website to remember who you are.
+
+4. Protocol, domain name, and path. 
