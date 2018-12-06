@@ -1,0 +1,24 @@
+body {
+  background-color: black;
+  padding: 20;
+  text-align: center;
+  font-style: normal;
+  font-size: 30;
+  color: white
+}
+.container {
+  color: black;
+}
+#box-one {
+  font-size: 50;
+  background-color: orange;
+  text-align: center;
+}
+#box-two {
+  font-size: 50;
+  background-color: green;
+}
+#box-three {
+  font-size: 50;
+  background-color: purple
+}
