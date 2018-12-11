@@ -11,4 +11,4 @@
 
  3. This week we became more familiar with html files and adding different structures to the files such as images, video's, and audio using Iframes. I felt much more comfortable this week and found myself working through issues that arose much quicker.
 
-[Assignment4Screenshot](./images/screenshot.png)
+![Assignment4Screenshot](./images/Screenshot.png)
