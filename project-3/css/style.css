@@ -1,0 +1,49 @@
+html {
+  width: 100%;
+  height: 100%;
+  background-image: url(../images/mountain-range.jpg);
+  background-size: cover;
+  margin: 0;
+}
+h1 {
+  font-size: 75;
+  text-align: center;
+  font-family: 'Charm', cursive;
+  font-weight: bold;
+}
+h3{
+  font-size: 40;
+  text-align: left;
+  font-family: 'Charm', cursive;
+  font-weight: 100;
+}
+#profile-button {
+    text-align: right;
+    font-size: 75;
+    font-family: 'Charm', cursive;
+    background-color: red;
+    font-size: 16pt;
+    color: black;
+    font-weight: 400;
+    background-color:red;
+    border-color: #8f8b8b #383636 #383636 #8f8b8b;
+    border-width: 9px 15px 15px 9px;
+    border-style: solid;
+    position: relative;
+    margin: auto;
+    top: 1em;
+    padding: 1em;
+    width: 9em;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+#profile-button :hover {
+    color: 383636;
+    font-style: italic;
+}
+
+#profile-button:active {
+    color: #fff;
+}
